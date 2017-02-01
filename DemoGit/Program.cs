@@ -11,7 +11,7 @@ namespace DemoGit
         static void Main(string[] args)
         {
             //Cette phrase est inutile.
-            Console.WriteLine("Hello world!");
+            Console.WriteLine("Bonjour Ludovic!");
         }
     }
 }
